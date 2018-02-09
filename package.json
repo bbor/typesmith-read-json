@@ -1,0 +1,15 @@
+{
+  "name": "typesmith-read-json",
+  "version": "1.0.0",
+  "description": "typesmith plugin that reads a JSON array into the database.",
+  "main": "lib/typesmith-read-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robb Surridge",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "strip-json-comments": "^2.0.1"
+  }
+}
