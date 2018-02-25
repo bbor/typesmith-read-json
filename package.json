@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "glob": "^7.1.2",
+    "merge-options": "^1.0.0",
     "strip-json-comments": "^2.0.1"
   }
 }
